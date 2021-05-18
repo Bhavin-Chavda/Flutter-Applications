@@ -6,8 +6,10 @@ class ChooseLocation extends StatefulWidget {
 }
 
 class _ChooseLocationState extends State<ChooseLocation> {
+
   @override
   Widget build(BuildContext context) {
+    // print('build init state function ran');
     return Scaffold(
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
