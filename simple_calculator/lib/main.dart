@@ -299,7 +299,7 @@ class _CalculatorAppState extends State<CalculatorApp> {
                     ),
                   CalculatorButton(
                     text: '=',
-                    fillColor: 0xFFf4d160,
+                    fillColor: 0xFFFFFFFF,
                     textColor: 0xFF000000,
                     textSize: 20,
                     callback: btnOnClick
