@@ -1,2 +1,3 @@
-# World-Time-App
-World Time App using Flutter
+# Flutter Applications
+1. World Time App 
+2. Simple Calculator
