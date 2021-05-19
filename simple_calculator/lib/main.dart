@@ -101,6 +101,7 @@ class _CalculatorAppState extends State<CalculatorApp> {
       debugShowCheckedModeBanner: false,
       title: 'Calculator',
       theme: ThemeData(primarySwatch: Colors.blueGrey),
+
       home: Scaffold(
         appBar: AppBar(
           title: Text('Calculator by Bhavin Chavda'),
